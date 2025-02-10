@@ -12,4 +12,5 @@ Feb 3, 2025
 
 # References
 Kentrou, V., Buczny, J., Hrkalovic, T. M., Dudzik, B., Balliet, D., de Vries, R. (2025) Partners among strangers: A social relations perspective on personality and collaborative partner preferences in first encounters.
+
 Schönbrodt, F. D., Back, M. D., & Schmukle, S. C. (2012). TripleR: An R package for social relations analyses based on round-robin designs. _Behavior Research Methods_, _44_(2), 455–470. [https://doi.org/10.3758/s13428-011-0150-4]
