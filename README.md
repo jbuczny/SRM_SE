@@ -8,7 +8,7 @@ Results used to validate the code were taken from a manuscript by Kentrou et al.
 Dr. Jacek Buczny, j.buczny@vu.nl
 
 ## Update
-Feb 3, 2025
+Feb 7, 2025
 
 # References
 Kentrou, V., Buczny, J., Hrkalovic, T. M., Dudzik, B., Balliet, D., & de Vries, R. (2025) _Partners among strangers: A social relations perspective on personality and collaborative partner preferences in first encounters_.
